@@ -43,7 +43,6 @@ function startPlayerRobbery(closestPlayerPed)
         return false
     end
 
-    ExecuteCommand('me Robbing the person')
     local success = lib.progressBar({
         duration = 9200,
         label = 'Robbing the person',
