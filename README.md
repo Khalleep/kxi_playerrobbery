@@ -8,5 +8,6 @@ Dependencies:
 - ESX
 - https://github.com/overextended/ox_lib
 - https://github.com/overextended/ox_target
+- https://github.com/overextended/ox_inventory
 - https://github.com/Byte-Labs-Studio/bl_ui
 - https://github.com/eblio/3dme
